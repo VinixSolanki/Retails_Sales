@@ -1,5 +1,7 @@
 # 🛒 Retail Sales Analysis (Excel Project)
 
+📂 [Download Dataset Here](https://docs.google.com/spreadsheets/d/1p-kc4xwFjBFNELAdHTvZUOL8GwtzZxNF/edit?gid=1706596127#gid=1706596127)
+
 ## 📚 Project Overview
 This project presents a comprehensive data analysis of a retail dataset (focused on medical expenses) covering two years — 2009-10 and 2010-11.  
 The objective was to clean the data, analyze key business metrics, uncover customer and product trends, and create dashboards for stakeholders using Microsoft Excel.
